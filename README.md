@@ -1,1 +1,1 @@
-Tổng lơn nhất
+Tổng lớn nhất
